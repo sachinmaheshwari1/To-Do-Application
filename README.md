@@ -25,7 +25,7 @@ Follow the steps below to install and run the project on your local machine.
 
 1. Clone this repository:
 bash
- git clone https://github.com/parhladSingh/To-Do-list.git
+ git clone  https://github.com/sachinmaheshwari1/To-Do-Application.git
 
 
 2. Access the project directory:
