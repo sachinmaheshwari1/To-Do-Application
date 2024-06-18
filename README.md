@@ -13,9 +13,7 @@ Screenshots
 ## Quick Demo
 
 - Live link - https://to-do-application-plum.vercel.app/
-
-
-
+- https://github.com/sachinmaheshwari1/To-Do-Application/assets/168063041/84834103-6978-4b41-8b5e-5cca8905f436
 
 ## Technologies Used
 
