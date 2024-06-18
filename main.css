@@ -302,7 +302,7 @@ input:checked ~ .bubble::after {
         width: 50% !important;
     }
 	.todo-list .todo-item {
-		
+		flex-direction: column;
 		flex-wrap: wrap;
 	}
 
@@ -320,9 +320,4 @@ input:checked ~ .bubble::after {
 	
 }
 
-.clock {
-    font-size: 30px;
-    color: #666;
-    padding: 3px;
-    margin-left: 10px;
-}
+ 
