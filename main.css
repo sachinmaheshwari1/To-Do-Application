@@ -311,14 +311,14 @@ input:checked ~ .bubble::after {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		margin-top: 5px;
+		margin-top: 8px;
 	}
 	
 	.todo-timestamp {
 		font-size: 20px;
 		color: #666;
 		padding: 3px;
-		margin-top: 5px;
+		margin-top: 8px;
 	}
 	
 }
